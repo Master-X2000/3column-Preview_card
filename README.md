@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Master-X2000/3column-Preview_card/)
+- Live Site URL: [Add live site URL here](https://master-x2000.github.io/3column-Preview_card/)
 
 ## My process
 
